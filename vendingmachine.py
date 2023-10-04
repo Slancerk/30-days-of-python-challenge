@@ -24,8 +24,6 @@ elif user_inp<cho:
 
 
 
-# elif user_inp<cho:
-   
 
 
 
