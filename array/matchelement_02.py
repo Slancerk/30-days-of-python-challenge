@@ -29,3 +29,8 @@ for i in range(len(arr)):
 else:
     print("not found")
 
+
+
+#we can use a simple function to solve it too, the above for loop is doing the same thing
+
+print(arr.index(element))
