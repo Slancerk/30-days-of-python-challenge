@@ -19,4 +19,4 @@ for i in range(num):
 
 print(sum)
 a=sum/num
-print(f'average is ',a)
+print(f'average is ',a) 
